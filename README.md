@@ -4,3 +4,5 @@
 Consistency > Motivation.
 <br>
 Building one step at a time.
+<br>
+Author: Aditya Raj Singh Shekhawat

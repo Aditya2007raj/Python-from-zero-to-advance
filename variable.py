@@ -1,5 +1,5 @@
 # variable: something that stores a value.
-# variable is like a container jo bss ek baar m ek hii value ko store krta h. Or hmare pass ek naam ka ek hii variable hoga.
+# variable is like a container jo bss ek baar m ek hii value ko store krta h.
 
 # Rules to make a variable:
 # 1. Ek naam ka ek hii variable hoga.
